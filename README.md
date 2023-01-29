@@ -18,7 +18,7 @@ A great piece of advice to listen to.
 For the time being this folder is being used to gain experience using **markdown**.
 
 ## \*Assignment 0: GitHub Repository\*
-Most of the comits made on 1/28/2023 are meant to be demonstration's of student's efforts in learning markdown.
+Most of the commits made on 1/28/2023 are meant to be demonstration's of student's efforts in learning markdown.
 
 ### **List of Implemented Markdown Features:**
 - Headings
