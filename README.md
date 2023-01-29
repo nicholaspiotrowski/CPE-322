@@ -1,10 +1,10 @@
-# **CPE322**
+# **CPE 322**
 <!-- I really hope this README.md file is sufficient for Assignment 0: Github Repository -->
 
 ![WhiteCatBlueEyesPhoto](https://user-images.githubusercontent.com/71047019/215296520-ee0423ba-df74-470e-ad9e-b0ad98760a7e.png)
 
 ## About This Class
-**EE/CPE322**, also known as **Engineering Design VI**, is a class taught at Stevens Institute of Technolgy. The owner of this repository is taking the class during the Spring 2023 semester, when the current professor of this class is Dr. Kevin Lu.
+**EE/CPE 322**, also known as **Engineering Design VI**, is a class taught at Stevens Institute of Technolgy. The owner of this repository is taking the class during the Spring 2023 semester, when the current professor of this class is Dr. Kevin Lu.
 
 > Make time every day to grok a8n and a10n, i.e., automation and acceleration
 
