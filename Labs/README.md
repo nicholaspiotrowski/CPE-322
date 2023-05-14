@@ -5,3 +5,5 @@ Have completed multiple labs thus far, Raspberry Pi is being incredibly slow and
 
 
 Update:  Still trying, my Raspberry Pi might be broken and I do not have a microSD to SD converter or anything to access my lab files on hand right now.  Still attempting to boot Pi up.
+
+Update 2:  Tried installing Windows Subsystem for Linux, going to see if I can get that working and redo labs.  Apologies for the delay.
